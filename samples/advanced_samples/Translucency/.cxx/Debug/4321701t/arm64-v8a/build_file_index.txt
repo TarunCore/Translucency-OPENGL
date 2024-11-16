@@ -1,0 +1,5 @@
+/home/tarun/projects/Translucency/samples/CMakeLists.txt
+/home/tarun/projects/Translucency/samples/Sample.cmake
+/home/tarun/projects/Translucency/samples/advanced_samples/CMakeLists.txt
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/CMakeLists.txt
+/home/tarun/projects/Translucency/samples/advanced_samples/common_native/CMakeLists.txt

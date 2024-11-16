@@ -1,0 +1,18 @@
+# ninja log v5
+1	35	1731748289640808731	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/ETCHeader.cpp.o	217329c380efb0c
+9	53	1731748289660808480	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/timer.cpp.o	69fcf69980776968
+1	57	1731748289665808417	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Timer.cpp.o	7073cae2d63307eb
+0	94	1731748289699807990	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Shader.cpp.o	3597391fd7063470
+1	104	1731748289713807814	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/JavaClass.cpp.o	2a704f8294bdb1ad
+1	117	1731748289726807650	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Matrix.cpp.o	890e3949246024ed
+1	261	1731748289869805852	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Texture.cpp.o	846c9a2a98a30ca8
+0	261	1731748289870805840	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/Text.cpp.o	df0abd7036270fdf
+1	363	1731748289969804595	advanced_samples/common_native/CMakeFiles/common-native-gles3.dir/src/AndroidPlatform.cpp.o	9e389707f1b8301
+10	363	1731748289969804595	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/main.cpp.o	a33ec960c7533c22
+363	383	1731748289991804319	advanced_samples/common_native/libcommon-native-gles3.a	b820b70b6c21844e
+7	393	1731748289999804218	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/primitives.cpp.o	e7483ddce1a6693d
+8	499	1731748290102802923	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/shader.cpp.o	f712ed1ec0fbf6cd
+3	576	1731748290182801918	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/meshloader.cpp.o	49441b8875aafc54
+2	644	1731748290249801075	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/common/glutil.cpp.o	deb5264f76f8dd4c
+2	765	1731748290366799604	advanced_samples/Translucency/CMakeFiles/Translucency.dir/jni/app.cpp.o	83acbedae2ff5df6
+765	821	1731748290426798850	../../../../build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so	2b3ee6223c5a659

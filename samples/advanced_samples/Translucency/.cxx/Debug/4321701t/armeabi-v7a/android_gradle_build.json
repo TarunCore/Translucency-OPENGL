@@ -1,0 +1,54 @@
+{
+  "buildFiles": [
+    "/home/tarun/projects/Translucency/samples/CMakeLists.txt",
+    "/home/tarun/projects/Translucency/samples/Sample.cmake",
+    "/home/tarun/projects/Translucency/samples/advanced_samples/CMakeLists.txt",
+    "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/CMakeLists.txt",
+    "/home/tarun/projects/Translucency/samples/advanced_samples/common_native/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/tarun/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/tarun/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Translucency::@db4dfb70e94739ca910b": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "Translucency",
+      "output": "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/build/intermediates/cxx/Debug/4321701t/obj/armeabi-v7a/libNative.so",
+      "runtimeFiles": []
+    },
+    "common-native::@627c3e00baf88f12f79b": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "common-native",
+      "output": "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/advanced_samples/common_native/libcommon-native.a"
+    },
+    "common-native-gles3::@627c3e00baf88f12f79b": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "common-native-gles3",
+      "output": "/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/armeabi-v7a/advanced_samples/common_native/libcommon-native-gles3.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/tarun/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/tarun/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

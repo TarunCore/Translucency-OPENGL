@@ -1,0 +1,11 @@
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/CMakeFiles/edit_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/CMakeFiles/rebuild_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/common_native/CMakeFiles/common-native.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/common_native/CMakeFiles/common-native-gles3.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/common_native/CMakeFiles/edit_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/common_native/CMakeFiles/rebuild_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/Translucency/CMakeFiles/Translucency.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/Translucency/CMakeFiles/edit_cache.dir
+/home/tarun/projects/Translucency/samples/advanced_samples/Translucency/.cxx/Debug/4321701t/arm64-v8a/advanced_samples/Translucency/CMakeFiles/rebuild_cache.dir
